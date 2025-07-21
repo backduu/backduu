@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 안녕하세요! 백두현입니다
 
-<!--
-**backduu/backduu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 학력 및 경력
 
-Here are some ideas to get you started:
+- 2020.03 : 금오공과대학교 컴퓨터공학과 졸업
+- 2021.04 ~ 2021.09 : 지아이티 완성차파트 SW개발자 인턴 
+- 2022.07 ~ 2025.03 : 교보DTS SW개발 1팀 사원
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ 기술 스택
+
+**Frontend**
+- HTML / CSS / JavaScript
+- JSP
+- jQuery
+
+**Backend**
+- Java / Spring Boot / Spring
+
+**Database & Infra**
+- Oracle 
+- AWS / Tomcat
+
+## 📫 연락처
+
+- 📧 Email: power4290@gmail.com
+- 🖥️ Notion: [[https://백두현.dev](https://백두현.dev) ](https://www.notion.so/SK-2264edaa3421806fad99f4af00f4896e?source=copy_link) 
+- 💼 LinkedIn: [linkedin.com/in/do-dev](https://www.linkedin.com/in/doohyun-back-b70b94179/)
