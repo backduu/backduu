@@ -25,5 +25,5 @@
 ## 📫 연락처
 
 - 📧 Email: power4290@gmail.com
-- 🖥️ Notion: [[https://백두현.dev](https://백두현.dev) ](https://www.notion.so/SK-2264edaa3421806fad99f4af00f4896e?source=copy_link) 
+- 🖥️ Notion: (https://www.notion.so/SK-2264edaa3421806fad99f4af00f4896e?source=copy_link) 
 - 💼 LinkedIn: [linkedin.com/in/do-dev](https://www.linkedin.com/in/doohyun-back-b70b94179/)
