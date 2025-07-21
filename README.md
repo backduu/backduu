@@ -25,5 +25,5 @@
 ## 📫 연락처
 
 - 📧 Email: qorengus532@naver.com
-- 🖥️ Notion: (https://www.notion.so/SK-2264edaa3421806fad99f4af00f4896e?source=copy_link) 
-- 💼 LinkedIn: [linkedin.com/in/do-dev](https://www.linkedin.com/in/doohyun-back-b70b94179/)
+- 🖥️ Notion: [notion.so/in/backduu-dev](https://www.notion.so/SK-2264edaa3421806fad99f4af00f4896e?source=copy_link) 
+- 💼 LinkedIn: [linkedin.com/in/backduu-dev](https://www.linkedin.com/in/doohyun-back-b70b94179/)
