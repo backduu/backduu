@@ -18,7 +18,7 @@
 **Backend**
 - Java / Spring Boot / Spring
 
-**Database & Infra**
+**Database & Infra & Server**
 - Oracle 
 - AWS / Tomcat
 
