@@ -21,6 +21,7 @@
 **Database & Infra & Server**
 - Oracle 
 - AWS / Tomcat
+- MyBatis / JPA
 
 ## 📫 연락처
 
