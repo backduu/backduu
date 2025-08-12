@@ -12,7 +12,7 @@
 
 **Frontend**
 - HTML / CSS / JavaScript
-- JSP
+- JSP / React
 - jQuery
 
 **Backend**
