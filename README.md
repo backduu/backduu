@@ -12,9 +12,8 @@
 ## 🛠️ 기술 스택
 
 **Frontend**
-- HTML / CSS / JavaScript
+- HTML / CSS / JavaScript / TypeScript
 - JSP / React
-- jQuery
 
 **Backend**
 - Java / Spring Boot / Spring
@@ -22,7 +21,7 @@
 **Database & Infra & Server**
 - Oracle 
 - AWS / Tomcat
-- iBatis / MyBatis / JPA
+- iBatis / MyBatis / Spring Data JPA
 
 ## 📫 연락처
 
