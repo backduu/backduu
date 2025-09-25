@@ -9,22 +9,6 @@
 
 ---
 
-## 🛠️ 기술 스택
+## 🔗 포트폴리오 주소
+(예시) 📫  [https://baekdohyun.dev](https://baekdohyun.dev)
 
-**Frontend**
-- HTML / CSS / JavaScript / TypeScript
-- JSP / React
-
-**Backend**
-- Java / Spring Boot / Spring
-
-**Database & Infra & Server**
-- Oracle 
-- AWS / Tomcat
-- iBatis / MyBatis / Spring Data JPA
-
-## 📫 연락처
-
-- 📧 Email: qorengus532@naver.com
-- 🖥️ Notion: [notion.so/in/backduu-dev](https://www.notion.so/SK-2264edaa3421806fad99f4af00f4896e?source=copy_link) 
-- 💼 LinkedIn: [linkedin.com/in/backduu-dev](https://www.linkedin.com/in/doohyun-back-b70b94179/)
