@@ -10,7 +10,7 @@
 ---
 
 ## 🔗 포트폴리오 주소
-(예시) 📫  [https://baekdohyun.dev](https://baekdohyun.dev)
+(예시) 📫  [https://backduu-fortpolio.com](https://backduu-fortpolio.com)
 
 ---
 
