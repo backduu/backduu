@@ -10,7 +10,7 @@
 ---
 
 ## 🔗 포트폴리오로 들어가시면 보다 자세한 소개를 보실 수 있습니다.
-- **Portfolio**: [[https://your-portfolio-link](https://www.backduu-portfolio.com)]
+- **Portfolio**: [[포트폴리오 링크](https://www.backduu-portfolio.com)]
 
 ---
 
