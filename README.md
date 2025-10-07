@@ -10,22 +10,12 @@
 ---
 
 ## 🔗 포트폴리오로 들어가시면 보다 자세한 소개를 보실 수 있습니다.
-📫  [[https://backduu-fortpolio.com](https://www.backduu-portfolio.com/)]
+- **Portfolio**: [[https://your-portfolio-link](https://www.backduu-portfolio.com)]
 
 ---
 
-## 💡 아래 링크를 클릭하여 주요 프로젝트의 내용을 확인할 수 있습니다.
-@ 개인 프로젝트
-[감정/날씨/상황 별 음악 추천 AI 챗봇이 연동된 악보/음반 전자상거래 웹 사이트 - MusicNote store] (https://www.naver.com)
+## 📫 연락처
+- **Email**: qorengus532@naver.com 
 
-@ 개인 스터디
-[랭체인 학습 레파지토리] (https://github.com/backduu/LangChain_PlayGround)
 
-@ 팀 프로젝트
-[루키즈 내부 프로젝트 협업 플랫폼 서비스 - peerFlow] (https://www.naver.com)
 
-@ 팀 프로젝트
-[루키즈 AI 프로젝트] (https://www.naver.com) - 미정 -
-
-@ 팀 프로젝트
-[루키즈 최종 프로젝트] (https://www.naver.com) - 미정 -
