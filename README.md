@@ -10,7 +10,7 @@
 ---
 
 ## 🔗 포트폴리오로 들어가시면 보다 자세한 소개를 보실 수 있습니다.
-📫  [https://backduu-fortpolio.com](https://backduu-fortpolio.com)
+📫  [[https://backduu-fortpolio.com](https://www.backduu-portfolio.com/)]
 
 ---
 
