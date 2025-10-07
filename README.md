@@ -10,8 +10,22 @@
 ---
 
 ## 🔗 포트폴리오 주소
-(예시) 📫  [https://backduu-fortpolio.com](https://backduu-fortpolio.com)
+📫  [https://backduu-fortpolio.com](https://backduu-fortpolio.com)
 
 ---
 
 ## 💡 아래 링크를 클릭하여 주요 프로젝트의 내용을 확인할 수 있습니다.
+@ 개인 프로젝트
+[https://www.naver.com](감정/날씨/상황 별 음악 추천 AI 챗봇이 연동된 악보/음반 전자상거래 웹 사이트 - MusicNote store)
+
+@ 개인 스터디
+[https://github.com/backduu/LangChain_PlayGround](랭체인 학습 레파지토리)
+
+@ 팀 프로젝트
+[https://www.naver.com](루키즈 내부 프로젝트 협업 플랫폼 서비스 - peerFlow)
+
+@ 팀 프로젝트
+[https://www.naver.com](루키즈 AI 팀  프로젝트) - 미정 -
+
+@ 팀 프로젝트
+[https://www.naver.com](루키즈 최종 팀 프로젝트) - 미정 -
