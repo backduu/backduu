@@ -23,7 +23,7 @@
 ---
 
 ## 📂 Featured Project
-- **📊 PeerFlow** – **과제 제출 및 채팅 플랫폼** (Spring Boot + JPA + WebSocket)  
+- **📊 PeerFlow** – **과제 제출 및 채팅 플랫폼**  
   - 실시간 채팅, 과제 제출/채점, 알림 기능 통합  
   - [🔗 Repository](https://github.com/Rookies-2/SKRookies-Backend)
 
