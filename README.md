@@ -24,11 +24,11 @@
 
 ## 📂 Featured Project
 - **📊 PeerFlow** – **과제 제출 및 채팅 플랫폼**  
-  - 실시간 채팅, 과제 제출/채점, 알림 기능 통합  
+  - 사용자 간 실시간 채팅, 사용자-강사 간 공지사항/과제 관련 기능  
   - [🔗 Repository](https://github.com/Rookies-2/SKRookies-Backend)
 
 - **🛡️ MusicNote-Store** – **추천 AI 챗봇 기반 음반/악보 전자상거래 플랫폼**  
-  - 사용자 맞춤형 추천 서비스를 포함한 전자상거래 기능 탑
+  - 사용자 맞춤형 추천 서비스를 포함한 전자상거래 기능
   - [🔗 Repository](https://github.com/backduu/MusicNote-Store)
 
 ---
