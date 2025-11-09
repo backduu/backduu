@@ -29,8 +29,8 @@
 
 - **🛡️ MusicNote-Store** – **추천 AI 챗봇 기반 음반/악보 전자상거래 플랫폼**  
   - 사용자 맞춤형 추천 서비스를 포함한 전자상거래 기능
-  - [🔗 Repository](https://github.com/backduu/MusicNote-Store)
-
+  - Backend: [🔗 Repository](https://github.com/backduu/MusicNote-Store-Backend)
+  - Frontend: [🔗 Repository](https://github.com/backduu/MusicNote-Store-Frontend)
 ---
 
 ## 📫 연락처
