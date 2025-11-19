@@ -34,7 +34,7 @@
 ---
 
 ## 프로젝트 개발회고 & 개발공부
-- [🔗 Notion](https://www.notion.so/2774edaa342180459e20d45d4b605197?v=2774edaa342180958c71000c8a9ef899&p=2904edaa342180649e4bc6dd7fbaafce&pm=s)
+- [🔗 Notion](https://www.notion.so/2774edaa342180459e20d45d4b605197?v=2774edaa342180958c71000c8a9ef899&source=copy_link)
 
 ## 📫 연락처
 - **Email**: qorengus532@naver.com 
