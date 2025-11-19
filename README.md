@@ -25,13 +25,16 @@
 ## 📂 Featured Project
 - **📊 PeerFlow** – **과제 제출 및 채팅 플랫폼**  
   - 사용자 간 실시간 채팅, 사용자-강사 간 공지사항/과제 관련 기능  
-  - [🔗 Repository](https://github.com/Rookies-2/SKRookies-Backend)
+  - [🔗 Repository](https://www.notion.so/Springboot-2904edaa342180649e4bc6dd7fbaafce?source=copy_link)
 
 - **🛡️ MusicNote-Store** – **추천 AI 챗봇 기반 음반/악보 전자상거래 플랫폼**  
   - 사용자 맞춤형 추천 서비스를 포함한 전자상거래 기능
   - Backend: [🔗 Repository](https://github.com/backduu/MusicNote-Store-Backend)
   - Frontend: [🔗 Repository](https://github.com/backduu/MusicNote-Store-Frontend)
 ---
+
+## 프로젝트 개발회고 & 개발공부
+- [🔗 Notion](https://www.notion.so/2774edaa342180459e20d45d4b605197?v=2774edaa342180958c71000c8a9ef899&p=2904edaa342180649e4bc6dd7fbaafce&pm=s)
 
 ## 📫 연락처
 - **Email**: qorengus532@naver.com 
