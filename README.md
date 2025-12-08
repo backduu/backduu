@@ -17,15 +17,15 @@
 
 ---
 
-## 🔗 포트폴리오로 들어가시면 보다 자세한 소개를 보실 수 있습니다.
-- **Portfolio**: [[포트폴리오 링크](https://www.backduu-portfolio.com)]
-
----
-
 ## 📂 Featured Project
 - **📊 PeerFlow** – **과제 제출 및 채팅 플랫폼**  
   - 사용자 간 실시간 채팅, 사용자-강사 간 공지사항/과제 관련 기능  
   - [🔗 Repository](https://www.notion.so/Springboot-2904edaa342180649e4bc6dd7fbaafce?source=copy_link)
+
+- **🤖 Job아!** – **AI 면접 코칭 웹 서비스**  
+  - 면접 시 커뮤니케이션 능력 향상을 위한 AI채팅 및 면접 시뮬레이션 기능  
+  - Backend: [🔗 Repository](https://github.com/Rookies-3/BackEnd)
+  - Frontend: [🔗 Repository](https://github.com/Rookies-3/FrontEnd)
 
 - **🛡️ MusicNote-Store** – **추천 AI 챗봇 기반 음반/악보 전자상거래 플랫폼**  
   - 사용자 맞춤형 추천 서비스를 포함한 전자상거래 기능
