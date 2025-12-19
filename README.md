@@ -17,6 +17,12 @@
 
 ---
 
+## 🪽 학습 관련 
+- Web + Computer Science + Design Pattern + Reactive programming 
+- [노션 링크](https://www.notion.so/2774edaa342180459e20d45d4b605197?v=2774edaa342180958c71000c8a9ef899&source=copy_link)
+
+---
+
 ## 📂 Featured Project
 - **📊 PeerFlow** – **과제 제출 및 채팅 플랫폼**  
   - 사용자 간 실시간 채팅, 사용자-강사 간 공지사항/과제 관련 기능  
