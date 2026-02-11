@@ -12,8 +12,9 @@
 
 - 2020.03 : 금오공과대학교 컴퓨터공학과 졸업
 - 2021.04 ~ 2021.09 : 지아이티 완성차파트 SW개발팀 인턴 
-- 2022.07 ~ 2025.03 : 교보DTS SW개발 1팀 사원
-- 2026.02 ~ : 웹 개발자
+- 2022.07 ~ 2025.03 : 교보DTS SW개발 1팀 금융/공공/교육 웹개발 담당 사원
+- 2025.04 ~ 2026.02 : Spending time expanding my web development skills
+- 2026.02 ~ : 블루스페이스엠앤디 GIS개발팀 해양GIS 웹 서비스 담당 과장 (geoServer, PostgreSQL, PostGIS, JAVA based Fullstack)
 
 ---
 
