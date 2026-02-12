@@ -14,7 +14,7 @@
 - 2021.04 ~ 2021.09 : 지아이티 완성차파트 SW개발팀 MFC/WPF 기반 진단통신 프로그램 유지보수 인턴 
 - 2022.07 ~ 2025.03 : 교보DTS SW개발 1팀 금융/공공/교육 웹개발 담당 사원
 - 2025.04 ~ 2026.02 : 팀 프로젝트 진행 및 웹 개발 관련 기술 업그레이드
-- 2026.02 ~ : 블루스페이스엠앤디 GIS개발팀 SI-Solution부서 웹 서비스 구축 담당 과장 (geoServer, PostgreSQL, PostGIS, Fullstack based JAVA)
+- 2026.02 ~ : 블루스페이스엠앤디 SI-Solution부서 웹 서비스 구축 담당 과장 (geoServer, PostgreSQL, PostGIS, Fullstack based JAVA)
 
 ---
 
