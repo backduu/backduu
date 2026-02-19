@@ -22,7 +22,7 @@
   
 - **블루스페이스엠앤디** | SI-Solution팀 과장 (`2026.02 - Present`)
     - GeoServer 기반 해양 GIS 웹 솔루션 구축
-    - vue.js 기반 가시화 모듈 화면 개
+    - vue.js 기반 가시화 모듈 화면 개발
 
 ---
 
