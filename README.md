@@ -10,11 +10,54 @@
 
 ## 🎓 학력/경력
 
-- 2020.03 : 금오공과대학교 컴퓨터공학과 졸업
-- 2021.04 ~ 2021.09 : 지아이티 완성차파트 SW개발팀 MFC/WPF 기반 진단통신 프로그램 유지보수 -인턴-
-- 2022.07 ~ 2025.03 : 교보DTS SW개발 1팀 금융/공공/교육 웹개발 담당 -사원-
-- 2025.04 ~ 2026.02 : 팀 프로젝트 진행 및 웹 개발 관련 기술 업그레이드
-- 2026.02 ~ : 블루스페이스엠앤디 SI-Solution팀 해양GIS 웹 서비스 구축 담당 -과장- (geoServer, PostgreSQL, PostGIS, Fullstack based JAVA)
+- 금오공과대학교 컴퓨터공학과 졸업 (` ~ 2020.03`)
+  
+- **지아이티** | SW개발팀 인턴 (`2021.04 - 2021.09`)
+  - MFC/WPF 기반 진단통신 프로그램 유지보수
+  
+- **교보DTS** | SW개발 1팀 사원 (`2022.07 - 2025.03`)
+  - 금융/공공/교육 분야 웹 서비스 개발 및 유지보수
+ 
+- *팀 프로젝트 진행 및 웹 관련 기술 업그레이드* (`2025.04 - 2026.01`)
+  
+- **블루스페이스엠앤디** | SI-Solution팀 과장 (`2026.02 - Present`)
+    - GeoServer 기반 해양 GIS 웹 솔루션 구축
+    - vue.js 기반 가시화 모듈 화면 개
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
+![C#](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### ⚙️ Backend & Persistence
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)
+![Reactive Programming](https://img.shields.io/badge/Reactive-Programming-E10098?style=flat-square&logo=reactivex&logoColor=white)
+
+### 🎨 Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) 
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
+
+### 🗄️ Database & GIS
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
+![PostGIS](https://img.shields.io/badge/PostGIS-136AD2?style=flat-square&logo=postgis&logoColor=white) 
+![GeoServer](https://img.shields.io/badge/GeoServer-263763?style=flat-square&logo=geoserver&logoColor=white)
+
+### 🔧 Dev tools & VCS
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) 
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 
 ---
 
