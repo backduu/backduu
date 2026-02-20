@@ -1,4 +1,4 @@
-안녕하세요! 백두현입니다. | Backend & Ocean GIS Specialist
+안녕하세요! 백두현입니다. | Fullstack Web Dev & Ocean GIS Specialist
 ---
 
 - **관심 분야**: 리액티브 프로그래밍 + 해양공간정보 솔루션 구축 + Backend skills 
