@@ -19,7 +19,7 @@
 > **안정성과 확장성, 두 마리 토끼를 잡는 아키텍처를 설계합니다.**
 - **Domain Focus**: 해양공간정보(Ocean GIS) 솔루션 구축 및 가시화
 - **Scalable Architecture**: 리액티브 프로그래밍과 확장 가능한 백엔드 구조를 설계하여 대규모 트래픽과 데이터에도 유연하게 대응하는 솔루션을 지향합니다.
-- **GIS Service Tuning**: GeoServer의 **성능 튜닝(Layer Caching, Vector Tiles)**을 통해 네트워크 부하를 줄이고 실시간 데이터 시각화의 사용자 경험(UX)을 개선합니다.
+- **GIS Service Tuning**: GeoServer의 성능 튜닝(Layer Caching, Vector Tiles)을 통해 네트워크 부하를 줄이고 실시간 데이터 시각화의 사용자 경험(UX)을 개선합니다.
 - **Mindset**: 기초(CS)부터 최신 트렌드까지 멈추지 않고 학습하여 비즈니스 문제를 해결합니다.
 
 ---
@@ -30,9 +30,11 @@
 - **블루스페이스엠앤디** | SI-Solution팀 과장 (`2026.02 - Present`)
   - *Ocean GIS Web Solution Build-up*
   - GeoServer 기반 해양 데이터 서비스 및 Vue.js 가시화 모듈 총괄
+    
 - **교보DTS** | SW개발 1팀 사원 (`2022.07 - 2025.03`)
   - *Financial & Public Sector SI/SM*
   - Java, Spring, MyBatis/JPA 기반 대규모 웹 서비스 구축
+    
 - **지아이티** | SW개발팀 인턴 (`2021.04 - 2021.09`)
   - *MFC/WPF 기반 진단통신 프로그램 유지보수*
 
