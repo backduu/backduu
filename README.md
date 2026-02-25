@@ -79,7 +79,8 @@
   - Backend: [🔗 Repository](https://github.com/backduu/MusicNote-Store-Backend)
   - Frontend: [🔗 Repository](https://github.com/backduu/MusicNote-Store-Frontend)
  
-- **🚢 MarineGIS-PORTMIS** – **PostGIS 기반 실시간 선박 관제 및 입출항 관리 시스템** - GeoServer와 공공 API를 활용한 실시간 선박 위치 시각화 및 항만 구역 관제 서비스
+- **🚢 MarineGIS-PORTMIS** – **PostGIS 기반 실시간 선박 관제 및 입출항 관리 시스템**
+  - GeoServer와 공공 API를 활용한 실시간 선박 위치 시각화 및 항만 구역 관제 서비스
   - Backend: [🔗 Repository](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE)
   - Frontend: [🔗 Repository](https://github.com/backduu/MarineGIS_PORTMIS_WebService_FE)
 ---
