@@ -4,7 +4,6 @@
 ### Fullstack Web Developer & Ocean GIS Specialist
 **"기술의 깊이로 도메인의 가치를 실현하는 3년차 웹 개발자입니다."**
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbackduu&count_bg=%23007396&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/backduu)
 <br>
 [🏠 Portfolio/Notion](https://www.notion.so/2774edaa342180459e20d45d4b605197) | [📧 Email](mailto:qorengus532@naver.com) | [📂 GitHub Repositories](https://github.com/backduu?tab=repositories)
 
@@ -80,9 +79,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=backduu&show_icons=true&theme=transparent&hide_border=true" alt="Backduu's stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=backduu&layout=compact&theme=transparent&hide_border=true" alt="Top Langs" />
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=backduu&theme=transparent&hide_border=true" alt="Streak" />
 </div>
 
