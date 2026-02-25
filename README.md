@@ -6,7 +6,9 @@
 
 <br>
 - [🏠 Learning](https://www.notion.so/2774edaa342180459e20d45d4b605197) 
+<br>
 - [📧 Email](mailto:qorengus532@naver.com) 
+<br>
 - [📂 GitHub Repositories](https://github.com/backduu?tab=repositories)
 
 </div>
