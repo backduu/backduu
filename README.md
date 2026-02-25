@@ -5,7 +5,9 @@
 **"기술의 깊이로 도메인의 가치를 실현하는 3년차 웹 개발자입니다."**
 
 <br>
-[🏠 Portfolio/Notion](https://www.notion.so/2774edaa342180459e20d45d4b605197) | [📧 Email](mailto:qorengus532@naver.com) | [📂 GitHub Repositories](https://github.com/backduu?tab=repositories)
+[🏠 Learning](https://www.notion.so/2774edaa342180459e20d45d4b605197) 
+[📧 Email](mailto:qorengus532@naver.com) 
+[📂 GitHub Repositories](https://github.com/backduu?tab=repositories)
 
 </div>
 
