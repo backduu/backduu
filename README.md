@@ -111,13 +111,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=backduu&theme=transparent&hide_border=true" alt="Streak" />
-</div>
-
----
-
 <div align="center">
   📧 Contact: qorengus532@naver.com <br>
   <b>Looking for meaningful challenges in Geospatial & Backend development.</b>
