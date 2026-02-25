@@ -5,12 +5,12 @@
 **"기술의 깊이로 도메인의 가치를 실현하는 3년차 웹 개발자입니다."**
 
 <br>
-- [🏠 Learning](https://www.notion.so/2774edaa342180459e20d45d4b605197) 
-<br>
-- [📧 Email](mailto:qorengus532@naver.com) 
-<br>
-- [📂 GitHub Repositories](https://github.com/backduu?tab=repositories)
 
+[![Notion](https://img.shields.io/badge/Learning-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2774edaa342180459e20d45d4b605197)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qorengus532@naver.com)
+[![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backduu?tab=repositories)
+
+<br>
 </div>
 
 ---
