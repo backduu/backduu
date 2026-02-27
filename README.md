@@ -29,7 +29,7 @@
 ### 🏢 Work Experience
 - **블루스페이스엠앤디** | SI-Solution팀 과장 (`2026.02 - Present`)
   - *Ocean GIS Web Solution Build-up*
-  - GeoServer 기반 해양 데이터 서비스 및 Vue.js 가시화 모듈 총괄
+  - 
     
 - **교보DTS** | SW개발 1팀 사원 (`2022.07 - 2025.03`)
   - *Financial & Public Sector SI/SM*
