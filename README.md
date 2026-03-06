@@ -98,8 +98,8 @@
 ## 📂 Featured Project
 
 ### 🚢 [MarineGIS-PORTMIS](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE)
-**PostGIS 기반 실시간 선박 관제 및 입출항 관리 시스템**
-- **Description**: GeoServer와 공공 API를 활용한 실시간 위치 시각화 및 항만 관제
+**PostGIS 기반 웹 프로젝트 (제목 미정)**
+- **Description**: GeoServer와 공공 API를 활용한 해양 시각화 및 관제 등 다루는 웹 프로젝트
 - **Stack**: Spring Boot, PostGIS, GeoServer, Vue.js
 - **Link**: [Backend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE) | [Frontend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_FE)
 
