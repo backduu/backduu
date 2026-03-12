@@ -112,5 +112,5 @@
 
 <div align="center">
   📧 Contact: qorengus532@naver.com <br>
-  <b>Looking for meaningful challenges in Geospatial & Backend development.</b>
+  <b>Looking for meaningful challenges in Geospatial & Fullstack development.</b>
 </div>
