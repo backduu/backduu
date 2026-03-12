@@ -47,7 +47,6 @@
 ### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
-![C#](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
