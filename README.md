@@ -98,13 +98,13 @@
 ## 📂 Featured Project
 
 ### 🚢 [MarineGIS-PORTMIS](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE)
-**PostGIS 기반 웹 프로젝트 (제목 미정)**
+**PostGIS 기반 웹 프로젝트 (제목 미정)** ! 개발 중 !
 - **Description**: GeoServer와 공공 API를 활용한 해양 시각화 및 관제 등 다루는 웹 프로젝트
 - **Stack**: Spring Boot, PostGIS, GeoServer, Vue.js
 - **Link**: [Backend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE) | [Frontend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_FE)
 
 ### 🛡️ [MusicNote-Store](https://github.com/backduu/MusicNote-Store-Backend)
-**AI 챗봇 기반 음반/악보 전자상거래 플랫폼**
+**AI 챗봇 기반 음반/악보 전자상거래 플랫폼** ! 고도화 예정 !
 - **Description**: Spring Security와 JPA를 활용한 안정적인 커머스 인프라 구축
 - **Stack**: Spring Boot, JPA, QueryDSL, React, AI Integration
 
