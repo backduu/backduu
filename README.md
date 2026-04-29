@@ -54,7 +54,7 @@
 ### 💻 Languages
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python 3.14](https://img.shields.io/badge/Python%203.14-3776AB?style=flat-square&logo=python&logoColor=white)
 
 
 
@@ -68,7 +68,8 @@
 ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)
 ![Reactive Programming](https://img.shields.io/badge/Reactive-Programming-E10098?style=flat-square&logo=reactivex&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 
 ### 🎨 Frontend
@@ -79,7 +80,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) 
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) 
 ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white)
-
+![ECharts](https://img.shields.io/badge/ECharts-AA0000?style=flat-square&logo=apacheecharts&logoColor=white)
 
 
 ### 🗄️ Database & GIS
