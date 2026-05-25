@@ -28,14 +28,11 @@
 
 ### 🏢 Work Experience
 - **블루스페이스엠앤디** | SI-Solution팀 과장 (`2026.02 - Present`)
-  - GeoServer 기반 해양 GIS 웹 솔루션의 백엔드 시스템과 프론트엔드 시스템을 설계 및 구축하고, 가시화 모듈 개발에 참여하여 SI 솔루션 납품을 수행함.
-
-    - GeoServer 기반 해양 GIS 웹 솔루션의 백엔드 아키텍처를 설계하고 Spring Boot 및 Spring MVC를 활용하여 서버 애플리케이션을 구축함
-    - RESTful API를 설계 및 개발하여 GIS 공간 데이터의 조회, 처리, 제공 기능을 구현함
-    - Oracle DB 기반으로 해양 공간 데이터 모델을 설계하고, QueryDSL, Spring Data JPA를 활용하여 데이터 접근 계층을 개발함
-    - Spring Security를 적용하여 사용자 인증 및 권한 관리 체계를 구현함
-    - Vue.js + leaflet 라이브러리 기반 가시화 모듈의 프론트엔드 화면을 개발하고, 백엔드 API와의 연동을 수행함
-    - GeoServer와 백엔드 시스템 간 연동 모듈을 개발하여 지도 레이어 서비스 및 공간 데이터를 처리함
+  - OceanJS (2026.02 ~ / 진행 중)
+    1) 기반 해양·기상 관측 대시보드 풀스택 개발 및 성능 고도화
+    2) OpenLayers 활용 2D 지도 가시화 모듈 설계 및 렌더링 최적화
+    3) PostgreSQL 데이터베이스 쿼리 튜닝 및 백엔드 아키텍처 리팩토링
+    4) 컴포넌트 표준화 및 중앙 집중식 관리 체계 구축
     
 - **교보DTS** | SW개발 1팀 사원 (`2022.07 - 2025.03`)
   - *Financial & Public Sector SI/SM*
