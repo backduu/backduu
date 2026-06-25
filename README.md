@@ -29,8 +29,11 @@
 ### 🏢 Work Experience
 - **블루스페이스엠앤디** | SI-Solution팀 과장 (`2026.02 - Present`)
   - *Ocean GIS SI/Solution Web developer*
-  - Python, FastAPI, SQLAlchemy, Leaflet, axios, pinia
-  - Java, SpringBoot, RESTful API, PostgreSQL, Geoserver, Spring security, Spring MVC, MyBatis, Spring Data JPA
+  - Python, FastAPI, SQLAlchemy
+  - vue.js, Typescript, Axios, Pinia
+  - Java, SpringBoot, RESTful API, PostgreSQL, Spring security, Spring MVC, MyBatis, Spring Data JPA
+  - Docker, Gitlab, SVN, Git
+  - OpenLayers, Leaflet, Geoserver, PostGIS
 
     
 - **교보DTS** | SW개발 1팀 사원 (`2022.07 - 2025.03`)
