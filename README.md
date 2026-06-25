@@ -28,21 +28,13 @@
 
 ### 🏢 Work Experience
 - **블루스페이스엠앤디** | SI-Solution팀 과장 (`2026.02 - Present`)
-  - OceanJS (2026.02 ~ / 진행 중)
-    1) Vue.js + FastAPI 기반 해양·기상 관측 대시보드 풀스택 개발 및 성능 고도화
-    2) OpenLayers 활용 2D 지도 가시화 모듈 설계 및 렌더링 최적화
-    3) PostgreSQL 데이터베이스 쿼리 튜닝 및 백엔드 아키텍처 리팩토링
-    4) 컴포넌트 표준화 및 중앙 집중식 관리 체계 구축
-       
-  - 연안재해 메타데이터 관리 시스템 (2026.03 ~ /진행중)
-    
-  - 수로측량파일관리시스템 (2027.xx ~ / 진행 예정)
-    1) PostgreSQL 이용 10만건의 대량 데이터 삽입 프로세스 최적화 및 자동화 시스템 구축
-    2) Spring Boot 도메인 기반 패키지 구조 리팩토링 및 기능별 독립 개발·테스트 환경 구축
+  - *Ocean GIS SI/Solution Web developer*
+  - Python, FastAPI, SQLAlchemy, Leaflet, axios, pinia
+  - Java, SpringBoot, RESTful API, PostgreSQL, Geoserver, Spring security, Spring MVC, MyBatis, Spring Data JPA
 
     
 - **교보DTS** | SW개발 1팀 사원 (`2022.07 - 2025.03`)
-  - *Financial & Public Sector SI/SM*
+  - *Financial & Public Sector SI/SM Web developer*
   - JSP, JQuery, Javascript, Java, Spring framework, MyBatis 기반 대규모 웹 서비스 구축
     
 - **지아이티** | SW개발팀 인턴 (`2021.04 - 2021.09`)
