@@ -32,7 +32,7 @@
   - Python, FastAPI, SQLAlchemy
   - vue.js, Typescript, Axios, Pinia
   - Java, SpringBoot, RESTful API, PostgreSQL, Spring security, Spring MVC, MyBatis, Spring Data JPA
-  - Docker, Gitlab, SVN, Git
+  - Docker, Gitlab, SVN, Git, Github Action, Jenkins
   - OpenLayers, Leaflet, Geoserver, PostGIS
 
     
