@@ -38,7 +38,7 @@
     
 - **교보DTS** | SW개발 1팀 사원 (`2022.07 - 2025.03`)
   - *Financial & Public Sector SI/SM Web developer*
-  - JSP, JQuery, Javascript, Java, Spring framework, MyBatis 기반 대규모 웹 서비스 구축
+  - JSP, JQuery, Javascript, Java, Spring framework, MyBatis 기반 (금융/공공/교육) 웹 서비스 구축
     
 - **지아이티** | SW개발팀 인턴 (`2021.04 - 2021.09`)
   - *MFC/WPF 기반 진단통신 프로그램 유지보수*
