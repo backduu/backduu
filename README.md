@@ -104,9 +104,9 @@
 ## 📂 Featured Project
 
 ### 🎵 [MusicNote-Store](https://github.com/backduu/MusicNote-Store-Backend)
-**AI 챗봇 기반 음반/악보 전자상거래 플랫폼** ! WBS 및 요구사항정의, 화면 프로토타입 작성 중 !
-- **Description**: Spring Security와 JPA를 활용한 안정적인 커머스 인프라 구축
-- **Stack**: Spring Boot, JPA, QueryDSL, React, AI Integration
+**AI 챗봇 기반 음반/악보 전자상거래 플랫폼** ! 애자일하게 진행 중 / FE 개발 중 !
+- **Description**: 점진적으로 살을 붙여 나가는 안정적인 커머스 인프라 구축
+- **Stack**: Spring Boot, Oracle, Vue, Typescript, AI Integration
 - **Link**: [Backend](https://github.com/backduu/MusicNote-Store-Backend) | [Frontend](https://github.com/backduu/MusicNote-Store-Frontend) | [Admin](https://github.com/backduu/MusicNote-Store-admin)
 
 ### 🚢 [MarineGIS-PORTMIS](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE)
