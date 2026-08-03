@@ -92,7 +92,7 @@
 ---
 ## 📂 Featured Project
 
-### 🎵 [MusicNote-Store](https://github.com/backduu/MusicNote-Store-Backend)
+### 🎵 [MusicNote-Store](https://github.com/users/backduu/projects/3)
 **AI 챗봇 기반 음반/악보 전자상거래 플랫폼** ! 애자일하게 진행 중 / FE 개발 중 / DB 도커에 올리는 작업 및 문서 작업 중! !
 - **Description**: 점진적으로 살을 붙여 나가는 안정적인 커머스 인프라 구축
 - **Stack**: Spring Boot, Oracle, Vue, Typescript, AI Integration
