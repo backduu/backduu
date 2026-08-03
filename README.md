@@ -2,7 +2,7 @@
 
 # 🚀 Back Du-hyeon
 ### Fullstack Web Developer & Ocean GIS Specialist
-**"기술의 깊이로 도메인의 가치를 실현하는 3년차 웹 개발자입니다."**
+**"GIS 웹 프로젝트도 진행하며 개인적으로 음악 관련 전자상거래 시스템도 만들고 있는 3년차 개발자입니다."**
 
 <br>
 
