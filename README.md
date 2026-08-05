@@ -77,7 +77,6 @@ Docker · Docker Compose · Git · GitHub Actions · GitLab · SVN · Gradle · 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=backduu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=backduu&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
