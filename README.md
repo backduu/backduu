@@ -1,112 +1,111 @@
 <div align="center">
 
-# 🚀 Back Du-hyeon
-### Fullstack Web Developer & Ocean GIS Specialist
-**"GIS 웹 프로젝트도 진행하며 개인적으로 음악 관련 전자상거래 시스템도 만들고 있는 3년차 개발자입니다."**
+# Back Du-hyeon
+### Backend-Focused Fullstack Developer · Ocean GIS Specialist
+
+**해양공간정보(Ocean GIS) 도메인에서 안정적인 백엔드 아키텍처를 설계하고,<br/>사이드 프로젝트로 커머스 시스템의 A-Z를 직접 구축해보며 확장성을 고민하는 개발자입니다.**
 
 <br>
 
-[![Notion](https://img.shields.io/badge/Learning-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2774edaa342180459e20d45d4b605197)
+[![Notion](https://img.shields.io/badge/Learning%20Log-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/2774edaa342180459e20d45d4b605197)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qorengus532@naver.com)
-[![Repositories](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backduu?tab=repositories)
+[![GitHub](https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/backduu?tab=repositories)
 
-<br>
 </div>
 
 ---
 
-## 📝 Introduction
-> **안정성과 확장성, 두 마리 토끼를 잡는 아키텍처를 설계합니다.**
-- **Domain Focus**: 해양공간정보(Ocean GIS) 솔루션 구축 및 가시화
-- **Scalable Architecture**: 리액티브 프로그래밍과 확장 가능한 백엔드 구조를 설계하여 대규모 트래픽과 데이터에도 유연하게 대응하는 솔루션을 지향합니다.
-- **GIS Service Tuning**: GeoServer의 성능 튜닝(Layer Caching, Vector Tiles)을 통해 네트워크 부하를 줄이고 실시간 데이터 시각화의 사용자 경험(UX)을 개선합니다.
-- **Mindset**: 기초(CS)부터 최신 트렌드까지 멈추지 않고 학습하여 비즈니스 문제를 해결합니다.
+## 👋 Introduction
+
+- **Domain Expertise** — GeoServer / PostGIS 기반 해양공간정보 SI·Solution 구축 경험. Layer Caching, Vector Tile 튜닝으로 대용량 공간 데이터 시각화의 네트워크 부하 개선
+- **Backend Architecture** — Spring 생태계(Boot, Security, Data JPA, MyBatis)와 FastAPI 기반 서비스를 함께 다루며, 트래픽/데이터 특성에 맞는 스택을 선택하는 감각을 키우는 중
+- **Documentation-Driven Growth** — 트러블슈팅과 설계 고민을 문서로 남기는 습관을 통해, SI 특유의 짧은 프로젝트 사이클 속에서도 학습을 축적하는 방식을 지향
 
 ---
 
 ## 💼 Experience & Education
 
-### 🏢 Work Experience
-- **블루스페이스엠앤디** | SI-Solution팀 과장 (`2026.02 - Present`)
-  - *Ocean GIS SI/Solution Web developer*
-  - Python, FastAPI, SQLAlchemy
-  - vue.js, Typescript, Axios, Pinia
-  - Java, SpringBoot, RESTful API, PostgreSQL, Spring security, Spring MVC, MyBatis, Spring Data JPA
-  - Docker, Gitlab, SVN, Git, Github Action, Jenkins
-  - OpenLayers, Leaflet, Geoserver, PostGIS
+### Work Experience
 
-    
-- **교보DTS** | SW개발 1팀 사원 (`2022.07 - 2025.03`)
-  - *Financial & Public Sector SI/SM Web developer*
-  - JSP, JQuery, Javascript, Java, Spring framework, MyBatis 기반 (금융/공공/교육) 웹 서비스 구축
-    
-- **지아이티** | SW개발팀 인턴 (`2021.04 - 2021.09`)
-  - *MFC/WPF 기반 진단통신 프로그램 유지보수*
+**블루스페이스엠앤디** · SI-Solution팀 과장 `2026.02 – Present`
+> Ocean GIS SI/Solution Web Developer
+- OpenLayers, Leaflet, GeoServer, PostGIS 기반 해양공간정보 웹 서비스 개발
+- Vue.js + TypeScript + Pinia / Spring Boot + PostgreSQL 풀스택 구조 설계 및 개발
+- `#GIS` `#Spring Boot` `#FastAPI` `#Vue.js` `#PostGIS`
 
-### 🎓 Education
-- **금오공과대학교** 컴퓨터공학과 졸업 (`2020.03`)
+**교보DTS** · SW개발 1팀 사원 `2022.07 – 2025.03`
+> Financial & Public Sector SI/SM Web Developer
+- JSP, jQuery, Spring Framework, MyBatis 기반 금융/공공/교육 도메인 웹 서비스 구축 및 유지보수
+- `#Spring Framework` `#MyBatis` `#SI`
+
+**지아이티** · SW개발팀 인턴 `2021.04 – 2021.09`
+> MFC/WPF 기반 진단통신 프로그램 유지보수
+
+### Education
+- 금오공과대학교 컴퓨터공학과 졸업 `2020.03`
+
 ---
 
 ## 🛠 Tech Stack
 
-### ☕ Java Ecosystem (Backend)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![SpringMVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![SpringDataJPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white) 
-![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square&logo=hibernate&logoColor=white) 
-![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) 
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white)
-![Reactive Programming](https://img.shields.io/badge/Reactive-Programming-E10098?style=flat-square&logo=reactivex&logoColor=white)
+**Backend**
 
-### 🐍 Python Ecosystem (Backend)
-![Python 3.14](https://img.shields.io/badge/Python%203.14-3776AB?style=flat-square&logo=python&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) 
+<img src="https://skillicons.dev/icons?i=java,spring,py,fastapi&theme=dark" />
 
-### 🎨 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white) 
-![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white) 
-![ECharts](https://img.shields.io/badge/ECharts-AA0000?style=flat-square&logo=apacheecharts&logoColor=white)
+Spring Boot · Spring MVC · Spring Data JPA · QueryDSL · Spring Security · MyBatis · FastAPI · SQLAlchemy
 
-### 🗄️ Database & GIS
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
-![PostGIS](https://img.shields.io/badge/PostGIS-136AD2?style=flat-square&logo=postgis&logoColor=white) 
-![GeoServer](https://img.shields.io/badge/GeoServer-263763?style=flat-square&logo=geoserver&logoColor=white)
+**Frontend**
 
-### 🔧 Dev tools, VCS & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) 
-![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white) 
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white) 
-![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,vue,react&theme=dark" />
+
+Vue.js · Pinia · TypeScript · React · Axios
+
+**Database & GIS**
+
+<img src="https://skillicons.dev/icons?i=oracle,postgres&theme=dark" />
+
+Oracle · PostgreSQL · PostGIS · GeoServer
+
+**Infra & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,jenkins,githubactions&theme=dark" />
+
+Docker · Docker Compose · Git · GitHub Actions · GitLab · SVN · Gradle · Maven
 
 ---
-## 📂 Featured Project
 
-### 🎵 [MusicNote-Store](https://github.com/users/backduu/projects/3)
-**AI 챗봇 기반 음반/악보 전자상거래 플랫폼** ! 애자일하게 진행 중 / FE 개발 중 / DB 도커에 올리는 작업 및 문서 작업 중! !
-- **Description**: 점진적으로 살을 붙여 나가는 안정적인 커머스 인프라 구축
-- **Stack**: Spring Boot, Oracle, Vue, Typescript, AI Integration
-- **Link**: [Backend](https://github.com/backduu/MusicNote-Store-Backend) | [Frontend](https://github.com/backduu/MusicNote-Store-Frontend) | [Admin](https://github.com/backduu/MusicNote-Store-admin)
+## 📊 GitHub Stats
 
-### 🚢 [MarineGIS-PORTMIS](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE)
-**PostGIS 기반 웹 프로젝트 (제목 미정)** ! 미정 !
-- **Description**: GeoServer와 공공 API를 활용한 해양 시각화 및 관제 등 다루는 웹 프로젝트
-- **Stack**: Spring Boot, Spring MVC, Spring Security, Spring Batch, PostGIS, GeoServer, Vue.js, Pinia, TypeScript, Axios, REST API, 공공데이터 API
-- **Link**: [Backend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE) | [Frontend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_FE)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=backduu&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=backduu&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### 🎵 MusicNote-Store
+**AI 챗봇 기반 음반/악보 전자상거래 플랫폼**
+`In Progress` · 애자일 방식으로 점진적으로 기능을 확장하며 안정적인 커머스 인프라를 구축하는 개인 프로젝트
+
+- **Stack**: Spring Boot, Oracle, Vue.js, TypeScript, AI Integration
+- **Focus**: 도메인 모델링, 컴포넌트 재사용 설계, Docker 기반 DB 인프라 구성
+- [Backend](https://github.com/backduu/MusicNote-Store-Backend) · [Frontend](https://github.com/backduu/MusicNote-Store-Frontend) · [Admin](https://github.com/backduu/MusicNote-Store-admin)
+
+### 🚢 MarineGIS-PORTMIS
+**PostGIS 기반 해양 시각화·관제 웹 프로젝트**
+`Planning` · GeoServer와 공공 API를 활용한 해양공간정보 서비스
+
+- **Stack**: Spring Boot, Spring Security, Spring Batch, PostGIS, GeoServer, Vue.js, Pinia, TypeScript
+- [Backend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE) · [Frontend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_FE)
 
 ---
 
 <div align="center">
-  📧 Contact: qorengus532@naver.com <br>
-  <b>Looking for meaningful challenges in Geospatial & Fullstack development.</b>
+
+📧 **Contact**: qorengus532@naver.com
+
+**Geospatial × Fullstack 영역에서 의미 있는 문제를 함께 풀어갈 기회를 찾고 있습니다.**
+
 </div>
