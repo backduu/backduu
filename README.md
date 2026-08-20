@@ -93,10 +93,14 @@ Docker · Docker Compose · Git · GitHub Actions · GitLab · SVN · Gradle · 
 - [Backend](https://github.com/backduu/MusicNote-Store-Backend) · [Frontend](https://github.com/backduu/MusicNote-Store-Frontend) · [Admin](https://github.com/backduu/MusicNote-Store-admin)
 
 ### 🚢 MarineGIS-PORTMIS
-**PostGIS 기반 해양 시각화·관제 웹 프로젝트**
-`Planning` · GeoServer와 공공 API를 활용한 해양공간정보 서비스
+**CesiumJS & PostGIS 기반 3D 해양 관제 및 디지털 트윈 웹 프로젝트**
+PORTMIS(해운항만물류정보시스템) 공공 API와 Cesium 3D 엔진을 활용한 실시간 선박 관제 및 해양공간정보 서비스
 
-- **Stack**: Spring Boot, Spring Security, Spring Batch, PostGIS, GeoServer, Vue.js, Pinia, TypeScript
+- **Stack**: Spring Boot, Spring Security, Spring Batch, PostGIS, GeoServer, Vue 3, Pinia, TypeScript, **CesiumJS**
+- **Key Features**: 
+  - CesiumJS 기반 3D 해상 지형 및 실시간 선박 궤적(CZML) 시각화
+  - PostGIS 공간 쿼리를 통한 선박 위치/항로 연산 및 GeoServer 레이어 연동
+  - PORTMIS 공공 API 연동 및 Spring Batch 기반 위치 데이터 주기적 수집
 - [Backend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_BE) · [Frontend](https://github.com/backduu/MarineGIS_PORTMIS_WebService_FE)
 
 ---
